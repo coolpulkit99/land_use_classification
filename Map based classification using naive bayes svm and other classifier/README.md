@@ -22,7 +22,7 @@ Confusion Matrix for a sample image :
   
   example input image:
   
-  ![alt text](https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/landsatpune.png)
+ ![Screenshot](https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/landsatpune.png)
 
   corresponding output svm image :
   
