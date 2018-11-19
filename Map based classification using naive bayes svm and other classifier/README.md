@@ -22,19 +22,16 @@ Confusion Matrix for a sample image :
   
   example input image:
   
-  ![alt text]
-(https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/landsatpune.png)
+  ![alt text](https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/landsatpune.png)
 
   corresponding output svm image :
   
-  ![alt text]
-(https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/svmresult.png)
+  ![alt text](https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/svmresult.png)
   
   The brown area is the impervious region, identified as concrete and the dark blue is water. 
   
   Comparison between SVM and Naive Bayes:
   
-  ![alt text]
-(https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/compare.png)
+  ![alt text](https://github.com/coolpulkit99/land_use_classification/tree/master/Map%20based%20classification%20using%20naive%20bayes%20svm%20and%20other%20classifier/compare.png)
   
   note: the color legend is different. The green is concrete and the light blue is water in this one.
