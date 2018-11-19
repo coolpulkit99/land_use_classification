@@ -1,12 +1,5 @@
 # CNN-ensemble-classifier-Land-Use-Classification
-Convolutional Neural Network combined with ensemble classifier for land use classification, ensemble classifier that will be used is Random Forest
-
-In this project, transfer learning is used, the configuration of the cnn is same as VGG-16 & VGG-19, thanks to https://github.com/fchollet/keras/blob/master/keras/applications/vgg16.py
-https://github.com/fchollet/keras/blob/master/keras/applications/vgg19.py
-
-Random forest is build using scikit-learn, thanks to : http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-
-also using keras library, with Theano as backend
+Convolutional Neural Network combined with ensemble classifier for land use classification, ensemble classifier that will be used is Random Forest also using keras library, with Theano as backend
 
 The Land Use dataset is from UC Merced Land Use Dataset, thanks to http://vision.ucmerced.edu/datasets/landuse.html Total data used is 2100 images, which consist of 21 classes, each class consist of 100 images, the classes are:
 
